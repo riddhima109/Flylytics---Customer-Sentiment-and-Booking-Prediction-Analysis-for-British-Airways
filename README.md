@@ -2,9 +2,9 @@
 This project demonstrates the development of an analytics system to evaluate customer sentiment through reviews and predict future booking trends for British Airways. The analysis leverages data science techniques, including machine learning models and statistical methods, to provide insights into customer behavior, satisfaction, and potential sales opportunities. This project showcases how data-driven insights can be employed to enhance customer engagement and improve business strategies.
 
 # Project Overview
-### Purpose: The goal of this project is to analyze customer reviews and historical booking data to:
-
-Predict future booking patterns and trends.
+### Purpose
+The goal of this project is to analyze customer reviews and historical booking data to:
+- Predict future booking patterns and trends.
 Assess customer sentiment and identify key factors impacting customer satisfaction.
 Provide actionable insights for business strategies.
 Motivation:
