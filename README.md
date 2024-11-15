@@ -68,9 +68,10 @@ cd Flylytics-Customer-Sentiment-Analysis
 pip install -r requirements.txt
 ```
 
-### Key Features
+## Key Features
 
 - **Predictive Modeling:**
+
 -**Customer Booking Trends**: Predicts future customer booking rates based on historical data.
 -**Feature Analysis:** Identifies key factors influencing booking patterns.
 
