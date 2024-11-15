@@ -1,13 +1,24 @@
 # Flylytics - Customer Sentiment and Booking Prediction Analysis for British Airways
 This project demonstrates the development of an analytics system to evaluate customer sentiment through reviews and predict future booking trends for British Airways. The analysis leverages data science techniques, including machine learning models and statistical methods, to provide insights into customer behavior, satisfaction, and potential sales opportunities. This project showcases how data-driven insights can be employed to enhance customer engagement and improve business strategies.
 
+# Project Structure
+The repository is organized as follows-
+
+- **Data**:Contains raw and preprocessed data.
+- **Graphs and Results**:Stores visualizations and results generated from the analysis. Also a detailed analysis of the results comparing the most suitable model.
+- **Presentation Overview**: A comprehensive detailed presentation summarizing the project.
+- **src**: Contains source code and scripts related to data processing and analysis.
+- **README.md**: Proejct Documentation.
+- **requirements.txt:** List of dependencies required to run the project.
+
 # Project Overview
 ### Purpose
 The goal of this project is to analyze customer reviews and historical booking data to:
 - Predict future booking patterns and trends.
-Assess customer sentiment and identify key factors impacting customer satisfaction.
-Provide actionable insights for business strategies.
-Motivation:
+- Assess customer sentiment and identify key factors impacting customer satisfaction.
+- Provide actionable insights for business strategies.
+
+### Motivation:
 
 Customer-Centric Insights: Help British Airways understand customer preferences and enhance services based on data-driven decisions.
 Business Optimization: Aid in developing strategies that improve customer retention and increase revenue.
