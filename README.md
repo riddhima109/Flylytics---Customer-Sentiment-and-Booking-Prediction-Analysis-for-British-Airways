@@ -72,12 +72,16 @@ pip install -r requirements.txt
 
 - **Predictive Modeling:**
 
--**Customer Booking Trends**: Predicts future customer booking rates based on historical data.
--**Feature Analysis:** Identifies key factors influencing booking patterns.
+**Customer Booking Trends**: Predicts future customer booking rates based on historical data.
+
+**Feature Analysis:** Identifies key factors influencing booking patterns.
 
 - **Sentiment Analysis:**
-Customer Feedback: Analyzes reviews to determine overall customer sentiment.
-Insightful Metrics: Provides a breakdown of positive, negative, and neutral feedback distribution.
+
+**Customer Feedback:** Analyzes reviews to determine overall customer sentiment.
+
+**Insightful Metrics:** Provides a breakdown of positive, negative, and neutral feedback distribution.
+
 Data Visualization
 Trends and Patterns: Presents visual graphs of booking trends and sentiment analysis.
 Interactive Dashboards: (Optional future development) Create dashboards for real-time data monitoring.
